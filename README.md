@@ -10,6 +10,3 @@ Very willing to specialize more and more in this universe of mobile Apps 😁.
 
 - [Website](https://fredericowp.dev/) 💻 - Soon...
 
-<div>
-  ![Snake animation](https://github.com/FredericoWP/FredericoWP/blob/output/github-contribution-grid-snake.svg)
-  </>
